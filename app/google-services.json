@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "345428327951",
+    "firebase_url": "https://messagesystem-da0cf.firebaseio.com",
+    "project_id": "messagesystem-da0cf",
+    "storage_bucket": "messagesystem-da0cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345428327951:android:a934f8e66c0d264e58ed7a",
+        "android_client_info": {
+          "package_name": "com.example.messagesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345428327951-fu0s5kk0k5ueq10m76uofvqn3d41uggn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messagesystem",
+            "certificate_hash": "2235bb1705a847f4c909aa891b075e5feeb8dc78"
+          }
+        },
+        {
+          "client_id": "345428327951-8m5t09tnodtfhu15k1bub6ed07arks84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzN_fX79aNAQRwMKBfbL58GwOjUulOn28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345428327951-8m5t09tnodtfhu15k1bub6ed07arks84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

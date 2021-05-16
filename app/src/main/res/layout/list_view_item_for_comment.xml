@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="380px"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:textSize="30px" />
+
+    <Button
+        android:id="@+id/edit"
+        android:layout_width="80px"
+        android:layout_height="wrap_content"
+        android:text="Edit"
+        android:textSize="12px" />
+
+    <Button
+        android:id="@+id/vote"
+        android:layout_width="80px"
+        android:layout_height="wrap_content"
+        android:text="Vote"
+        android:textSize="12px" />
+
+    <Button
+        android:id="@+id/delete"
+        android:layout_width="80px"
+        android:layout_height="wrap_content"
+        android:text="Delt"
+        android:textSize="12px" />
+</LinearLayout>
